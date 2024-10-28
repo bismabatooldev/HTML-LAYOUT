@@ -1,0 +1,121 @@
+.hear{
+    background-color:#ff6f3c;
+    height: 30%;
+    width: 80%;
+    margin: 0px auto;
+    padding-top: 1%;
+}
+.com{
+    margin-left: 46%;
+    padding-bottom: 2%;
+}
+.navbar{
+    margin-top: 5px;
+    background-color:#ff6f3c;
+    height:50px;
+    width: 80%;
+    margin: 0px auto;
+    padding-left: 20px;
+
+   font-size: 20px;
+  
+}
+
+.navbar-pin{
+   display: flex; 
+}
+.navbar ul{
+    display: flex;
+    margin-left: 280px;
+    padding-bottom: 10px;
+}
+.navbar ul li{
+    list-style-type: none;
+    margin-right: 10px;
+
+ 
+}
+.navbar ul li a{
+    color: black;
+    text-decoration: none;
+    padding:2px 20px;
+    display: block;
+}
+.main-section{
+    display: flex;
+    margin-top: 10px;
+}
+.left{
+    background-color:#5fc9f3;
+    height: 400px;
+    width: 60%;
+    margin-left: 50px;
+}
+.right{
+    margin-left: 20px;
+    background-color: lightgrey;
+    height: 400px;
+    width: 30%;
+}
+.sec{
+    margin-top: 60px;
+    color: white;
+    padding-left: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    padding-right: 30px;
+}
+.pro{
+    margin-top:50px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+    height: 40px;
+    padding-top: 20px;
+}
+.pro2{
+    margin-top: 10px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+    height: 40px;
+    padding-top: 20px;
+
+}
+.pro3{
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    background-color: white;
+    height: 40px;
+    padding-top: 20px;
+}
+.non{
+    text-decoration: none;
+}
+.foot{
+    height: 50px;
+    margin-top: 4px;
+    background-color: #ff6f3c;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+.home{
+    height: 17px;
+    width: 19px;
+    background-color: bisque;
+    padding-bottom: 10px;
+    padding-left: 10px;
+   
+}
+.bm{
+    padding-bottom: 10%;
+}
